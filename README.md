@@ -1,6 +1,6 @@
 # npmdoc-socket.io-rpc
 
-#### api documentation for  [socket.io-rpc (v1.1.3)](https://github.com/capaj/socket.io-rpc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-socket.io-rpc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-socket.io-rpc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-socket.io-rpc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-socket.io-rpc)
+#### basic api documentation for  [socket.io-rpc (v1.1.3)](https://github.com/capaj/socket.io-rpc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-socket.io-rpc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-socket.io-rpc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-socket.io-rpc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-socket.io-rpc)
 
 #### Minimalistic remote procedure call(RPC/RMI) library bootstrapped on socket.io
 
@@ -84,7 +84,8 @@
             "console-shim.js"
         ]
     },
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "bin": {}
 }
 ```
 
